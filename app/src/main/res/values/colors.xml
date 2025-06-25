@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#0D47A1</color> <!-- Deep Blue -->
+    <color name="primary_dark">#002171</color> <!-- Darker Blue -->
+    <color name="secondary">#1A237E</color> <!-- Indigo/Dark Blue -->
+    <color name="accent">#448AFF</color> <!-- Light Blue Accent -->
+    <color name="background">#121212</color> <!-- Dark Background -->
+    <color name="white">#E0E0E0</color> <!-- Light grayish white for readability -->
+    <color name="black">#000000</color>
+    <color name="text_primary">#FFFFFF</color> <!-- White for primary text -->
+    <color name="text_secondary">#B0BEC5</color> <!-- Light gray-blue for secondary text -->
+    <color name="divider">#37474F</color> <!-- Dark grayish divider -->
+    <color name="error">#EF5350</color> <!-- Soft Red -->
+    <color name="success">#388E3C</color> <!-- Deeper Green for contrast -->
+</resources>

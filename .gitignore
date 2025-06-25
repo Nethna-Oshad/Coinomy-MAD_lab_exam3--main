@@ -1,0 +1,16 @@
+# Android Studio
+.idea/
+*.iml
+local.properties
+.gradle/
+build/
+/captures/
+*.apk
+*.aab
+
+# Gradle
+gradle/
+gradlew
+gradlew.bat
+gradle-wrapper.jar
+gradle-wrapper.properties
